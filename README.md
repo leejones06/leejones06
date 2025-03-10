@@ -4,7 +4,7 @@
 
 - <b>Introductory Tutorials</b>
   - [Deploying and Configuring Active Directory](https://github.com/leejones06/deploy-ad)
-  - Creating a Virtual Network in Azure (<i>Coming Soon</i>)
+  - [Creating a Virtual Network in Azure] (https://https://github.com/leejones06/azure-intro-vm-setup)
   - An Introduction to DNS (<i>Coming Soon</i>)
   
 
