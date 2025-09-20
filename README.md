@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Introductory Tutorials</b>
-  - [Deploying and Configuring Active Directory](https://github.com/leejones06/deploy-ad)
   - [Creating a Virtual Network in Azure](https://github.com/leejones06/azure-intro-vm-setup)
+  - [Deploying and Configuring Active Directory](https://github.com/leejones06/deploy-ad)
   - An Introduction to DNS (<i>Coming Soon</i>)
   
 
